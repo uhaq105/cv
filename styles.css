@@ -1,0 +1,25 @@
+body{
+    background-color: green;
+}
+
+h1{
+    text-align: center;
+    font-weight: 900;
+    text-decoration: red;
+    color: wheat;
+    background-color: black;
+}
+
+#color{
+    background-color: blue;
+}
+
+button{
+    background-color: orange;
+    color: white;
+
+}
+
+#contents{
+    background-color: magenta;
+}
